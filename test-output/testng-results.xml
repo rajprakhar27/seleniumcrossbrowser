@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-30T10:27:04 IST" name="Suite" finished-at="2023-06-30T10:28:19 IST" duration-ms="75102">
+    <groups>
+    </groups>
+    <test started-at="2023-06-30T10:27:04 IST" name="Testonchrome" finished-at="2023-06-30T10:28:17 IST" duration-ms="73585">
+      <class name="crossbrowser.NewTest">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:crossbrowser.NewTest@72cc7e6f]" started-at="2023-06-30T10:27:04 IST" name="beforeTest" finished-at="2023-06-30T10:27:49 IST" duration-ms="45342" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="radiButton()[pri:0, instance:crossbrowser.NewTest@72cc7e6f]" started-at="2023-06-30T10:27:49 IST" name="radiButton" finished-at="2023-06-30T10:28:03 IST" duration-ms="14198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radiButton -->
+        <test-method signature="hyperlinkTest()[pri:1, instance:crossbrowser.NewTest@72cc7e6f]" started-at="2023-06-30T10:28:04 IST" name="hyperlinkTest" finished-at="2023-06-30T10:28:17 IST" duration-ms="13953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hyperlinkTest -->
+      </class> <!-- crossbrowser.NewTest -->
+    </test> <!-- Testonchrome -->
+    <test started-at="2023-06-30T10:27:04 IST" name="Test3" finished-at="2023-06-30T10:28:18 IST" duration-ms="73831">
+      <class name="crossbrowser.NewTest">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:crossbrowser.NewTest@61c4eee0]" started-at="2023-06-30T10:27:04 IST" name="beforeTest" finished-at="2023-06-30T10:27:49 IST" duration-ms="45320" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="radiButton()[pri:0, instance:crossbrowser.NewTest@61c4eee0]" started-at="2023-06-30T10:27:49 IST" name="radiButton" finished-at="2023-06-30T10:28:03 IST" duration-ms="13764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radiButton -->
+        <test-method signature="hyperlinkTest()[pri:1, instance:crossbrowser.NewTest@61c4eee0]" started-at="2023-06-30T10:28:03 IST" name="hyperlinkTest" finished-at="2023-06-30T10:28:18 IST" duration-ms="14617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hyperlinkTest -->
+      </class> <!-- crossbrowser.NewTest -->
+    </test> <!-- Test3 -->
+    <test started-at="2023-06-30T10:27:04 IST" name="Test" finished-at="2023-06-30T10:28:19 IST" duration-ms="75102">
+      <class name="crossbrowser.NewTest">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:crossbrowser.NewTest@7ae0a9ec]" started-at="2023-06-30T10:27:04 IST" name="beforeTest" finished-at="2023-06-30T10:27:49 IST" duration-ms="45341" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="radiButton()[pri:0, instance:crossbrowser.NewTest@7ae0a9ec]" started-at="2023-06-30T10:27:49 IST" name="radiButton" finished-at="2023-06-30T10:28:06 IST" duration-ms="16222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- radiButton -->
+        <test-method signature="hyperlinkTest()[pri:1, instance:crossbrowser.NewTest@7ae0a9ec]" started-at="2023-06-30T10:28:06 IST" name="hyperlinkTest" finished-at="2023-06-30T10:28:19 IST" duration-ms="13435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hyperlinkTest -->
+      </class> <!-- crossbrowser.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
